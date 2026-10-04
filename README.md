@@ -16,7 +16,7 @@ A. Ambil Gambar
 B. Susun Dataset
 
 C:\proyek\ train_resnet18.py dataset\
-kamera\   (50 foto)
+ kamera\   (50 foto)
 mouse\    (50 foto)
 Nama folder menjadi nama kelas. Cek: dir dataset harus menampilkan kamera dan mouse .
 
@@ -33,7 +33,8 @@ C. Pasang Python
 6. Hasil yang dihasilkan: grafik_training.png (kurva loss dan akurasi), confusion_matrix.png , hasil_training.txt (ringkasan),
    model_resnet18.pth (model).
 
-   
+   <img width="551" height="323" alt="image" src="https://github.com/user-attachments/assets/fcab094d-7b5b-49f5-bcdb-c420e9935669" />
+
 
 
 
